@@ -1,0 +1,9 @@
+<environment>
+           <Browser></Browser>
+		   <context>mobilewidget</context>
+       	   <port>8080</port>
+      	   <host>172.16.17.180</host>
+           <protocol>http</protocol>
+           <Resolution></Resolution>
+   
+</environment>
